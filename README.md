@@ -24,4 +24,3 @@ This app covers the following concepts from flutter:
 ## Special thanks to
 
 - [image placeholder api]('https://jsonplaceholder.typicode.com/photos')
--
